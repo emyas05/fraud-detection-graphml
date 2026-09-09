@@ -1,0 +1,502 @@
+[
+  {
+    "client_id": "C1177633466",
+    "fraud_score": 0.1138334572315216,
+    "prediction": 0
+  },
+  {
+    "client_id": "C58682758",
+    "fraud_score": 0.11382982134819031,
+    "prediction": 0
+  },
+  {
+    "client_id": "C427077444",
+    "fraud_score": 0.11382196843624115,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1121789613",
+    "fraud_score": 0.11380481719970703,
+    "prediction": 0
+  },
+  {
+    "client_id": "C430329518",
+    "fraud_score": 0.11371205747127533,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1440057381",
+    "fraud_score": 0.11371205747127533,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1455982049",
+    "fraud_score": 0.11368188261985779,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1689112462",
+    "fraud_score": 0.11349157243967056,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1888926728",
+    "fraud_score": 0.11333993822336197,
+    "prediction": 0
+  },
+  {
+    "client_id": "C169939918",
+    "fraud_score": 0.11321740597486496,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1572733222",
+    "fraud_score": 0.11264775693416595,
+    "prediction": 0
+  },
+  {
+    "client_id": "C244418902",
+    "fraud_score": 0.11252255737781525,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1179900921",
+    "fraud_score": 0.11215760558843613,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1002446735",
+    "fraud_score": 0.11214416474103928,
+    "prediction": 0
+  },
+  {
+    "client_id": "C990823587",
+    "fraud_score": 0.11197400838136673,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1026280121",
+    "fraud_score": 0.11163253337144852,
+    "prediction": 0
+  },
+  {
+    "client_id": "C842684426",
+    "fraud_score": 0.11120548099279404,
+    "prediction": 0
+  },
+  {
+    "client_id": "C533706573",
+    "fraud_score": 0.111077681183815,
+    "prediction": 0
+  },
+  {
+    "client_id": "C77163673",
+    "fraud_score": 0.11084780097007751,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1093223281",
+    "fraud_score": 0.11084780097007751,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1795901064",
+    "fraud_score": 0.11066620796918869,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1074110688",
+    "fraud_score": 0.11056382209062576,
+    "prediction": 0
+  },
+  {
+    "client_id": "C2082620262",
+    "fraud_score": 0.1103910580277443,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1561647393",
+    "fraud_score": 0.11027666181325912,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1916439605",
+    "fraud_score": 0.10930226743221283,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1778361668",
+    "fraud_score": 0.10925478488206863,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1542410200",
+    "fraud_score": 0.10880250483751297,
+    "prediction": 0
+  },
+  {
+    "client_id": "C199984853",
+    "fraud_score": 0.1083962470293045,
+    "prediction": 0
+  },
+  {
+    "client_id": "C670587931",
+    "fraud_score": 0.10836856812238693,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1034219836",
+    "fraud_score": 0.10836856812238693,
+    "prediction": 0
+  },
+  {
+    "client_id": "C154007666",
+    "fraud_score": 0.10801801085472107,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1492365838",
+    "fraud_score": 0.10741269588470459,
+    "prediction": 0
+  },
+  {
+    "client_id": "C253741905",
+    "fraud_score": 0.10724077373743057,
+    "prediction": 0
+  },
+  {
+    "client_id": "C976192518",
+    "fraud_score": 0.10640594363212585,
+    "prediction": 0
+  },
+  {
+    "client_id": "C2146217272",
+    "fraud_score": 0.10638739913702011,
+    "prediction": 0
+  },
+  {
+    "client_id": "C408988375",
+    "fraud_score": 0.10621814429759979,
+    "prediction": 0
+  },
+  {
+    "client_id": "C589143360",
+    "fraud_score": 0.10572270303964615,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1769581889",
+    "fraud_score": 0.10572270303964615,
+    "prediction": 0
+  },
+  {
+    "client_id": "C687300462",
+    "fraud_score": 0.10535112768411636,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1119661582",
+    "fraud_score": 0.10450790822505951,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1864714673",
+    "fraud_score": 0.10413981229066849,
+    "prediction": 0
+  },
+  {
+    "client_id": "C940330656",
+    "fraud_score": 0.10404831171035767,
+    "prediction": 0
+  },
+  {
+    "client_id": "C673988903",
+    "fraud_score": 0.10403260588645935,
+    "prediction": 0
+  },
+  {
+    "client_id": "C2096285497",
+    "fraud_score": 0.10390032082796097,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1766811336",
+    "fraud_score": 0.10361894220113754,
+    "prediction": 0
+  },
+  {
+    "client_id": "C576782065",
+    "fraud_score": 0.10350412875413895,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1334405552",
+    "fraud_score": 0.10329171270132065,
+    "prediction": 0
+  },
+  {
+    "client_id": "C467632528",
+    "fraud_score": 0.10329171270132065,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1260832016",
+    "fraud_score": 0.1032731831073761,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1446009472",
+    "fraud_score": 0.10325528681278229,
+    "prediction": 0
+  },
+  {
+    "client_id": "C140359285",
+    "fraud_score": 0.10325528681278229,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1226580672",
+    "fraud_score": 0.1031397357583046,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1604057641",
+    "fraud_score": 0.10277041047811508,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1282533102",
+    "fraud_score": 0.10217319428920746,
+    "prediction": 0
+  },
+  {
+    "client_id": "C695129655",
+    "fraud_score": 0.1010420173406601,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1274887619",
+    "fraud_score": 0.10103224217891693,
+    "prediction": 0
+  },
+  {
+    "client_id": "C968159890",
+    "fraud_score": 0.10073358565568924,
+    "prediction": 0
+  },
+  {
+    "client_id": "C398085606",
+    "fraud_score": 0.10042551904916763,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1023505879",
+    "fraud_score": 0.10042551904916763,
+    "prediction": 0
+  },
+  {
+    "client_id": "C743185292",
+    "fraud_score": 0.10014265030622482,
+    "prediction": 0
+  },
+  {
+    "client_id": "C934940485",
+    "fraud_score": 0.10009047389030457,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1540105290",
+    "fraud_score": 0.09997133165597916,
+    "prediction": 0
+  },
+  {
+    "client_id": "C749981943",
+    "fraud_score": 0.09928359091281891,
+    "prediction": 0
+  },
+  {
+    "client_id": "C414078193",
+    "fraud_score": 0.09899068623781204,
+    "prediction": 0
+  },
+  {
+    "client_id": "C418222166",
+    "fraud_score": 0.09879618883132935,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1654533591",
+    "fraud_score": 0.09685985743999481,
+    "prediction": 0
+  },
+  {
+    "client_id": "C864862655",
+    "fraud_score": 0.09620152413845062,
+    "prediction": 0
+  },
+  {
+    "client_id": "C684758020",
+    "fraud_score": 0.09595192223787308,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1287719145",
+    "fraud_score": 0.09595192223787308,
+    "prediction": 0
+  },
+  {
+    "client_id": "C58527359",
+    "fraud_score": 0.09499520063400269,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1452168793",
+    "fraud_score": 0.09499520063400269,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1598804430",
+    "fraud_score": 0.09478876739740372,
+    "prediction": 0
+  },
+  {
+    "client_id": "C54851371",
+    "fraud_score": 0.0946447029709816,
+    "prediction": 0
+  },
+  {
+    "client_id": "C433192438",
+    "fraud_score": 0.09399694204330444,
+    "prediction": 0
+  },
+  {
+    "client_id": "C727455113",
+    "fraud_score": 0.09348662197589874,
+    "prediction": 0
+  },
+  {
+    "client_id": "C860160503",
+    "fraud_score": 0.09288326650857925,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1462280812",
+    "fraud_score": 0.09184424579143524,
+    "prediction": 0
+  },
+  {
+    "client_id": "C2021456831",
+    "fraud_score": 0.09177332371473312,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1571315901",
+    "fraud_score": 0.09155706316232681,
+    "prediction": 0
+  },
+  {
+    "client_id": "C886007554",
+    "fraud_score": 0.0913136675953865,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1600031018",
+    "fraud_score": 0.09111262112855911,
+    "prediction": 0
+  },
+  {
+    "client_id": "C498447652",
+    "fraud_score": 0.09092050790786743,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1938399138",
+    "fraud_score": 0.09033013135194778,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1446413189",
+    "fraud_score": 0.09027399122714996,
+    "prediction": 0
+  },
+  {
+    "client_id": "C489647033",
+    "fraud_score": 0.08880183100700378,
+    "prediction": 0
+  },
+  {
+    "client_id": "C71055143",
+    "fraud_score": 0.08830241858959198,
+    "prediction": 0
+  },
+  {
+    "client_id": "C316319818",
+    "fraud_score": 0.08801179379224777,
+    "prediction": 0
+  },
+  {
+    "client_id": "C810552146",
+    "fraud_score": 0.08800065517425537,
+    "prediction": 0
+  },
+  {
+    "client_id": "C383717053",
+    "fraud_score": 0.08752703666687012,
+    "prediction": 0
+  },
+  {
+    "client_id": "C2101686389",
+    "fraud_score": 0.08752703666687012,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1479418663",
+    "fraud_score": 0.08704908192157745,
+    "prediction": 0
+  },
+  {
+    "client_id": "C589092976",
+    "fraud_score": 0.08661263436079025,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1962232117",
+    "fraud_score": 0.08645088225603104,
+    "prediction": 0
+  },
+  {
+    "client_id": "C176928407",
+    "fraud_score": 0.08634954690933228,
+    "prediction": 0
+  },
+  {
+    "client_id": "C687559493",
+    "fraud_score": 0.08604827523231506,
+    "prediction": 0
+  },
+  {
+    "client_id": "C507466068",
+    "fraud_score": 0.08604137599468231,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1087133093",
+    "fraud_score": 0.08604137599468231,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1148037845",
+    "fraud_score": 0.08599256724119186,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1956707614",
+    "fraud_score": 0.08535709977149963,
+    "prediction": 0
+  },
+  {
+    "client_id": "C1499825229",
+    "fraud_score": 0.08533531427383423,
+    "prediction": 0
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "community_id": 2965,
+    "rank": 1,
+    "size": 2,
+    "transactions": 1,
+    "fraud_count": 1,
+    "fraud_rate": 100.0,
+    "total_amount": 120074.73
+  },
+  {
+    "community_id": 8108,
+    "rank": 2,
+    "size": 2,
+    "transactions": 1,
+    "fraud_count": 1,
+    "fraud_rate": 100.0,
+    "total_amount": 164.0
+  },
+  {
+    "community_id": 46849,
+    "rank": 3,
+    "size": 2,
+    "transactions": 1,
+    "fraud_count": 1,
+    "fraud_rate": 100.0,
+    "total_amount": 93810.76
+  },
+  {
+    "community_id": 52844,
+    "rank": 4,
+    "size": 2,
+    "transactions": 1,
+    "fraud_count": 1,
+    "fraud_rate": 100.0,
+    "total_amount": 9217.19
+  },
+  {
+    "community_id": 67939,
+    "rank": 5,
+    "size": 2,
+    "transactions": 1,
+    "fraud_count": 1,
+    "fraud_rate": 100.0,
+    "total_amount": 2100.0
+  },
+  {
+    "community_id": 70530,
+    "rank": 6,
+    "size": 2,
+    "transactions": 1,
+    "fraud_count": 1,
+    "fraud_rate": 100.0,
+    "total_amount": 12461.0
+  },
+  {
+    "community_id": 74868,
+    "rank": 7,
+    "size": 2,
+    "transactions": 1,
+    "fraud_count": 1,
+    "fraud_rate": 100.0,
+    "total_amount": 3964129.99
+  },
+  {
+    "community_id": 74988,
+    "rank": 8,
+    "size": 2,
+    "transactions": 1,
+    "fraud_count": 1,
+    "fraud_rate": 100.0,
+    "total_amount": 1041647.06
+  },
+  {
+    "community_id": 84902,
+    "rank": 9,
+    "size": 2,
+    "transactions": 1,
+    "fraud_count": 1,
+    "fraud_rate": 100.0,
+    "total_amount": 2007.0
+  },
+  {
+    "community_id": 86629,
+    "rank": 10,
+    "size": 2,
+    "transactions": 1,
+    "fraud_count": 1,
+    "fraud_rate": 100.0,
+    "total_amount": 222048.71
+  }
+]

@@ -1,0 +1,27 @@
+# Détection de Fraude - Dépendances
+
+# Core
+pandas==2.2.0
+numpy==1.24.3
+
+# Neo4j
+neo4j==5.14.1
+
+# Graph ML
+networkx==3.2
+python-louvain==0.16
+
+# Deep Learning
+torch==2.1.2
+torch-geometric==2.4.0
+
+# Machine Learning
+scikit-learn==1.3.2
+scipy==1.11.4
+
+# Data Download
+kagglehub==0.2.1
+
+# Utilities
+matplotlib==3.8.2
+seaborn==0.13.0
